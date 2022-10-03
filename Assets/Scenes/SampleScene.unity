@@ -2871,7 +2871,7 @@ PrefabInstance:
       objectReference: {fileID: 2342667}
     - target: {fileID: 5381691943191722489, guid: 0b779861d0a2148d6ae22d6d938e3bb5, type: 3}
       propertyPath: m_Name
-      value: enemy (1)
+      value: enemy
       objectReference: {fileID: 0}
     - target: {fileID: 5381691943191722491, guid: 0b779861d0a2148d6ae22d6d938e3bb5, type: 3}
       propertyPath: m_Size.y
@@ -3012,7 +3012,7 @@ PrefabInstance:
       objectReference: {fileID: 883720814}
     - target: {fileID: 5410953567091808069, guid: 519328ee1a9054012b47efe9523bf250, type: 3}
       propertyPath: m_Name
-      value: enemy (2)
+      value: enemy
       objectReference: {fileID: 0}
     - target: {fileID: 5410953567091808070, guid: 519328ee1a9054012b47efe9523bf250, type: 3}
       propertyPath: m_Size.y
